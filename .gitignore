@@ -1,5 +1,7 @@
 
 # Created by https://www.gitignore.io/api/django,virtualenv,visualstudiocode
+### PyCharm ###
+.idea/
 
 ### Django ###
 *.log
